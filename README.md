@@ -34,5 +34,5 @@ I'm a Data Analyst, LLM Engineer, and Developer specializing in Python and C++. 
 
 
 ### 📈 GitHub Stats
-[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight)](https://github.com/[Flagro])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=tokyonight)](https://github.com/[Flagro])
+[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Flagro]&show_icons=true&theme=tokyonight)](https://github.com/[Flagro])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Flagro]&layout=compact&theme=tokyonight)](https://github.com/[Flagro])
