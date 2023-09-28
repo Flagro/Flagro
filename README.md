@@ -1,5 +1,21 @@
 # Hello, I'm Anton Potapov! 👋
 
+## 🚀 Current Projects
+I'm currently working on several innovative and open-source projects, and I warmly welcome collaborations! Feel free to reach out if you're interested in contributing to any of the projects below:
+
+1. **[SummaryForEveryone](https://github.com/Flagro/SummaryForEveryone):** An open-source library for easy and convenient summarization of text, audio, and video using local LLM models.
+
+2. **[QnAForEveryone](https://github.com/Flagro/QnAForEveryone):** A library facilitating QA pipelines with local LLM models.
+
+3. **[ProjectDataBaseQnA](https://github.com/Flagro/ProjectDataBaseQnA):** An open-source library designed for QA over a projects database folder, supporting multiple file types like word, pdf, pptx, etc.
+
+4. **[DLModelAgent](https://github.com/Flagro/DLModelAgent):** This open-source library provides a class that allows users to easily switch between various deep learning models within limited resources.
+
+5. **[BotFishingGame](https://github.com/Flagro/BotFishingGame):** A fun open-source Telegram bot for chats, developed to improve my knowledge in microservices and CI/CD pipelines.
+
+### 🤝 Let's Collaborate!
+I am open to collaborations on any of the projects above. Whether you want to contribute to the code, discuss ideas, or offer suggestions, feel free to open an issue or send a pull request!
+
 ## 🌟 About Me
 I'm a Data Analyst, LLM Engineer, and Developer specializing in Python and C++. With 3 years of hands-on experience in ML and backend development, I've been contributing to projects supported by brands like Huawei and refined my skills in backend development, focusing on innovative tech solutions. Currently, I'm enhancing the realms of Large Language Models and Natural Language Processing.
 
