@@ -12,6 +12,10 @@ I'm currently working on several innovative and open-source projects, and I warm
 4. **[DLModelAgent](https://github.com/Flagro/DLModelAgent):** This open-source library provides a class that allows users to easily switch between various deep learning models within limited resources.
 
 5. **[BotFishingGame](https://github.com/Flagro/BotFishingGame):** A fun open-source Telegram bot for chats, developed to improve my knowledge in microservices and CI/CD pipelines.
+   
+6. **[QuizBot](https://github.com/SWel1a/QuizBot):** Open-source telegram bot for words memorization.
+
+7. **[ExcelTableCNN](https://github.com/Flagro/ExcelTableCNN):** Open-source library for automatic table detection in Excel sheets based on Computer-Vision Deep Learning techniques.
 
 ### 🤝 Let's Collaborate!
 I am open to collaborations on any of the projects above. Whether you want to contribute to the code, discuss ideas, or offer suggestions, feel free to open an issue or send a pull request!
