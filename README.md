@@ -17,6 +17,8 @@ I'm currently working on several innovative and open-source projects, and I warm
 
 7. **[ExcelTableCNN](https://github.com/Flagro/ExcelTableCNN):** Open-source library for automatic table detection in Excel sheets based on Computer-Vision Deep Learning techniques.
 
+8. **[langchain-endpoints](https://github.com/Flagro/langchain-endpoints):** A fork from [langchain](https://github.com/langchain-ai/langchain) to allow Agents/Chains to use multiple endpoints for faster inference.
+
 ### 🤝 Let's Collaborate!
 I am open to collaborations on any of the projects above. Whether you want to contribute to the code, discuss ideas, or offer suggestions, feel free to open an issue or send a pull request!
 
