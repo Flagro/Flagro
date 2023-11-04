@@ -13,7 +13,7 @@ I'm currently working on several innovative and open-source projects, and I warm
 
 5. **[BotFishingGame](https://github.com/Flagro/BotFishingGame):** A fun open-source Telegram bot for chats, developed to improve my knowledge in microservices and CI/CD pipelines.
    
-6. **[QuizBot](https://github.com/SWel1a/QuizBot):** Open-source telegram bot for words memorization.
+6. **[PhriniFluent.com](https://phrinifluent.com)**: [PhriniFluent Telegram Bot](https://github.com/Flagro/PhriniFluent), [PhriniFluent Backend](https://github.com/Flagro/PhriniFluentBackend), [PhriniFluent Frontend](https://github.com/Flagro/PhriniFluentFrontend), [QuizBot Telegram Bot](https://github.com/SWel1a/QuizBot) - an open-source service for language learning/words memorization powered by OpenAI.
 
 7. **[ExcelTableCNN](https://github.com/Flagro/ExcelTableCNN):** Open-source library for automatic table detection in Excel sheets based on Computer-Vision Deep Learning techniques.
 
