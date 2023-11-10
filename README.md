@@ -5,7 +5,7 @@ I'm currently working on several innovative and open-source projects, and I warm
 
 1. **[SummaryForEveryone](https://github.com/Flagro/SummaryForEveryone):** An open-source library for easy and convenient summarization of text, audio, and video using local LLM models.
 
-2. **[QnAForEveryone](https://github.com/Flagro/QnAForEveryone):** A library facilitating QA pipelines with local LLM models.
+2. **[QnAForEveryone](https://github.com/Flagro/QnAForEveryone):** A library facilitating Qestion Answering pipelines with local LLM models.
 
 3. **[ProjectDataBaseQnA](https://github.com/Flagro/ProjectDataBaseQnA):** An open-source library designed for QA over a projects database folder, supporting multiple file types like word, pdf, pptx, etc.
 
