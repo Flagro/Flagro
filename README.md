@@ -4,20 +4,12 @@
 I'm currently working on several innovative and open-source projects, and I warmly welcome collaborations! Feel free to reach out if you're interested in contributing to any of the projects below:
 
 1. **[SummaryForEveryone](https://github.com/Flagro/SummaryForEveryone):** An open-source library for easy and convenient summarization of text, audio, and video using local LLM models.
-
-2. **[QnAForEveryone](https://github.com/Flagro/QnAForEveryone):** A library facilitating Qestion Answering pipelines with local LLM models.
-
-3. **[ProjectDataBaseQnA](https://github.com/Flagro/ProjectDataBaseQnA):** An open-source library designed for QA over a projects database folder, supporting multiple file types like word, pdf, pptx, etc.
-
-4. **[DLModelAgent](https://github.com/Flagro/DLModelAgent):** This open-source library provides a class that allows users to easily switch between various deep learning models within limited resources.
-
-5. **[BotFishingGame](https://github.com/Flagro/BotFishingGame):** A fun open-source Telegram bot for chats, developed to improve my knowledge in microservices and CI/CD pipelines.
    
-6. **[PhriniFluent.com](https://phrinifluent.com)**: [PhriniFluent Telegram Bot](https://github.com/Flagro/PhriniFluentTG), [PhriniFluent Backend](https://github.com/Flagro/PhriniFluentBackend), [PhriniFluent Frontend](https://github.com/Flagro/PhriniFluentFrontend), [QuizBot Telegram Bot](https://github.com/SWel1a/QuizBot) - an open-source service for language learning/words memorization powered by OpenAI.
+2. **[ProjectDataBaseQnA](https://github.com/Flagro/ProjectDataBaseQnA):** An open-source library designed for QA over a projects database folder, supporting multiple file types like word, pdf, pptx, etc.
+   
+3. **[PhriniFluent.com](https://phrinifluent.com)**: [PhriniFluent Telegram Bot](https://github.com/Flagro/PhriniFluentTG), [PhriniFluent Backend](https://github.com/Flagro/PhriniFluentBackend), [PhriniFluent Frontend](https://github.com/Flagro/PhriniFluentFrontend), [QuizBot Telegram Bot](https://github.com/SWel1a/QuizBot) - an open-source service for language learning/words memorization powered by OpenAI.
 
-7. **[ExcelTableCNN](https://github.com/Flagro/ExcelTableCNN):** Open-source library for automatic table detection in Excel sheets based on Computer-Vision Deep Learning techniques.
-
-8. **[langchain-endpoints](https://github.com/Flagro/langchain-endpoints):** A fork from [langchain](https://github.com/langchain-ai/langchain) to allow Agents/Chains to use multiple endpoints for faster inference.
+4. **[ExcelTableCNN](https://github.com/Flagro/ExcelTableCNN):** Open-source library for automatic table detection in Excel sheets based on Computer-Vision Deep Learning techniques.
 
 ### 🤝 Let's Collaborate!
 I am open to collaborations on any of the projects above. Whether you want to contribute to the code, discuss ideas, or offer suggestions, feel free to open an issue or send a pull request!
