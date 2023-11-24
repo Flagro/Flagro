@@ -41,7 +41,7 @@ Since September 24th, I have embarked on a focused journey towards realizing my 
 - **Role:** Data Analyst, LLM Engineer
 - **Contributions:** Developed automation tools, integrated advanced LLM technologies, developed MVPs for machine learning products, and proposed innovative solutions to reduce human hours and company costs.
 
-### Research Computing Center of Moscow State University (September 2021 - Present)
+### Research Computing Center of Moscow State University (September 2021 - September 2023)
 - **Role:** C++ Developer
 - **Contributions:** Developed optimized C/C++ backend implementation for the GraphBLAS standard and implemented a series of optimizations for matrix-vector multiplication.
 
