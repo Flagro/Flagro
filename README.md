@@ -24,7 +24,7 @@ Since September 24th, I have embarked on a focused journey towards realizing my 
 📍 **Location:** Podgorica, Montenegro  
 
 ### 🚀 Skills & Tools
-- **Backend Development:** C++, C, Python, Django, Django Rest Framework (DRF), AWS
+- **Backend Development:** C++, C, Python, Django, Django Rest Framework (DRF), AWS, nginx, gunicorn
 - **Frontend Development (not my speciality but still have projects that utilized):** Angular 16.1
 - **Data Engineering:** Pandas, PostgreSQL, MongoDB, Motor, Openpyxl, win32com
 - **CI/CD:** Git, GitHub Actions, Docker
