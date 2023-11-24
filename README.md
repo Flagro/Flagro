@@ -24,11 +24,14 @@ Since September 24th, I have embarked on a focused journey towards realizing my 
 📍 **Location:** Podgorica, Montenegro  
 
 ### 🚀 Skills & Tools
-- **Backend Development:** C++, C, Python, REST, AWS
+- **Backend Development:** C++, C, Python, Django, Django Rest Framework (DRF), AWS
+- **Frontend Development (not my speciality but still have projects that utilized):** Angular 16.1
 - **Data Engineering:** Pandas, PostgreSQL, MongoDB, Motor, Openpyxl, win32com
 - **CI/CD:** Git, GitHub Actions, Docker
 - **LLMs/NLP Tasks:** Transformers, Bert, GPT, T5, Llama, Pytorch, HuggingFace, langchain, NLTK, Spacy
 - **Parallel/Distributed Computing:** PThreads, OpenMP, MPI, CUDA, RabbitMQ
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flagro&layout=compact&theme=tokyonight)](https://github.com/Flagro)
 
 ### 📘 Education
 - **Bachelor's degree in Applied Mathematics and Computer Science**, Lomonosov Moscow State University (2019 - 2023)
@@ -53,5 +56,4 @@ Since September 24th, I have embarked on a focused journey towards realizing my 
 
 ### 📈 GitHub Stats
 [![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flagro&show_icons=true&theme=tokyonight)](https://github.com/Flagro)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flagro&layout=compact&theme=tokyonight)](https://github.com/Flagro)
-[![Flagro's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Flagro&theme=tokyonight)](https://github.com/Flagro)
+[![Flagro's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Flagro&theme=tokyonight&rank=-C&column=4)](https://github.com/Flagro)
