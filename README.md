@@ -2,14 +2,14 @@
 
 ## 🚀 Current Projects
 I'm currently working on several innovative and open-source projects, and I warmly welcome collaborations! Feel free to reach out if you're interested in contributing to any of the projects below:
+  
+1. **[PhriniFluent.com](https://phrinifluent.com)**: [PhriniFluent Telegram Bot](https://github.com/Flagro/PhriniFluentTG), [PhriniFluent Backend](https://github.com/Flagro/PhriniFluentBackend), [PhriniFluent Frontend](https://github.com/Flagro/PhriniFluentFrontend), [QuizBot Telegram Bot](https://github.com/SWel1a/QuizBot) - an open-source service for language learning/words memorization powered by OpenAI.
 
-1. **[SummaryForEveryone](https://github.com/Flagro/SummaryForEveryone):** An open-source library for easy and convenient summarization of text, audio, and video using local LLM models.
-   
-2. **[ProjectDataBaseQnA](https://github.com/Flagro/ProjectDataBaseQnA):** An open-source library designed for QnA LLM pipeline over a projects database folder, supporting multiple file types like word, pdf, pptx, etc.
-   
-3. **[PhriniFluent.com](https://phrinifluent.com)**: [PhriniFluent Telegram Bot](https://github.com/Flagro/PhriniFluentTG), [PhriniFluent Backend](https://github.com/Flagro/PhriniFluentBackend), [PhriniFluent Frontend](https://github.com/Flagro/PhriniFluentFrontend), [QuizBot Telegram Bot](https://github.com/SWel1a/QuizBot) - an open-source service for language learning/words memorization powered by OpenAI.
+2. **[ExcelTableCNN](https://github.com/Flagro/ExcelTableCNN):** Open-source library for automatic table detection in Excel sheets based on Computer-Vision Deep Learning techniques.
 
-4. **[ExcelTableCNN](https://github.com/Flagro/ExcelTableCNN):** Open-source library for automatic table detection in Excel sheets based on Computer-Vision Deep Learning techniques.
+3. **[SummaryForEveryone](https://github.com/Flagro/SummaryForEveryone):** An open-source library for easy and convenient summarization of text, audio, and video using local LLM models.
+   
+4. **[ProjectDataBaseQnA](https://github.com/Flagro/ProjectDataBaseQnA):** An open-source library designed for QnA LLM pipeline over a projects database folder, supporting multiple file types like word, pdf, pptx, etc.
 
 ### 🤝 Let's Collaborate!
 I am open to collaborations on any of the projects above. Whether you want to contribute to the code, discuss ideas, or offer suggestions, feel free to open an issue or send a pull request!
