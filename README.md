@@ -17,16 +17,16 @@ I am open to collaborations on any of the projects above. Whether you want to co
 ## 🌟 About Me
 I'm a Data Analyst, LLM Engineer, and Developer specializing in Python and C++. With 3 years of hands-on experience in ML and backend development, I've been contributing to projects supported by brands like Huawei and refined my skills in backend development, focusing on innovative tech solutions. Currently, I'm enhancing the realms of Large Language Models and Natural Language Processing.
 
-Since September 24th, I have embarked on a focused journey towards realizing my vision for open source. Each day is marked with a commitment to contribute, and as of now, I'm proud to maintain a streak of two consecutive months of contributions. This consistent effort reflects my dedication to implement my ideas and goals in the open-source community. Every commit, issue, and pull request is a step towards making a meaningful impact and bringing my vision to life.
+Since September 24th, I have embarked on a focused journey towards implementing my vision for open source. Each day is marked with a commitment to contribute, and as of now, I'm proud to maintain a streak of two consecutive months of contributions. This consistent effort reflects my dedication to implement my ideas and goals in the open-source community. Every commit, issue, and pull request is a step towards making a meaningful impact and bringing my vision to life.
 
 [![Flagro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flagro&theme=tokyonight)](https://github.com/Flagro)
 
 📍 **Location:** Podgorica, Montenegro  
 
 ### 🚀 Skills & Tools
-- **Backend Development:** C++, C, Python, Django, Django Rest Framework (DRF), AWS, nginx, gunicorn
+- **Backend Development:** C++, C, Golang, Python, Django, Django Rest Framework (DRF), FastAPI, AWS, nginx, gunicorn
 - **Frontend Development (not my speciality but still have projects that utilized):** Angular 16.1
-- **Data Engineering:** Pandas, PostgreSQL, MongoDB, Motor, Openpyxl, win32com
+- **Data Engineering:** Pandas, PostgreSQL, MongoDB, Motor, Openpyxl, win32com, SQLite, SQLAlchemy
 - **CI/CD:** Git, GitHub Actions, Docker
 - **LLMs/NLP Tasks:** Transformers, Bert, GPT, T5, Llama, Pytorch, HuggingFace, langchain, NLTK, Spacy
 - **Parallel/Distributed Computing:** PThreads, OpenMP, MPI, CUDA, RabbitMQ
