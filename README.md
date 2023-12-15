@@ -3,11 +3,15 @@
 ## 🚀 Current Projects
 I'm currently working on several innovative and open-source projects, and I warmly welcome collaborations! Feel free to reach out if you're interested in contributing to any of the projects below:
   
-1. **[PhriniFluent.com](https://phrinifluent.com)**: [PhriniFluent Telegram Bot](https://github.com/Flagro/PhriniFluentTG), [PhriniFluent Backend](https://github.com/Flagro/PhriniFluentBackend), [PhriniFluent Frontend](https://github.com/Flagro/PhriniFluentFrontend), [QuizBot Telegram Bot](https://github.com/SWel1a/QuizBot) - an open-source service for language learning/words memorization powered by OpenAI.
+1. **[PhriniFluent.com](https://phrinifluent.com)**: an open-source service for language learning/words memorization powered by OpenAI. Also serves as my full stack web development demo.
+   - [PhriniFluent Telegram Bot](https://github.com/Flagro/PhriniFluentTG) - PhriniFluent's experience as a Telegram bot
+   - [PhriniFluent Backend](https://github.com/Flagro/PhriniFluentBackend) - PhriniFluent's Backend written in Django
+   - [PhriniFluent Frontend](https://github.com/Flagro/PhriniFluentFrontend) - PhriniFluent's frontend written in Angular
+   - [QuizBot Telegram Bot](https://github.com/SWel1a/QuizBot) - Finished and ready to use first iteration of PhriniFluent as a Telegram bot
 
-2. **[ExcelTableCNN](https://github.com/Flagro/ExcelTableCNN):** Open-source library for automatic table detection in Excel sheets based on Computer-Vision Deep Learning techniques.
+3. **[ExcelTableCNN](https://github.com/Flagro/ExcelTableCNN):** Open-source library for automatic table detection in Excel sheets based on Computer-Vision Deep Learning techniques.
    
-3. **[ProjectTextSuite](https://github.com/Flagro/ProjectTextSuite):** An open-source library designed for QnA LLM pipeline over a projects database folder, supporting multiple file types like word, pdf, pptx, etc with file version control and ability to do automatic question-answering pipelines over large table files like xlsx. Suite consists of the following 5 packages all of which could be used independendly for your purposes (i'm pretty happy with it's modular design):
+4. **[ProjectTextSuite](https://github.com/Flagro/ProjectTextSuite):** An open-source library designed for QnA LLM pipeline over a projects database folder, supporting multiple file types like word, pdf, pptx, etc with file version control and ability to do automatic question-answering pipelines over large table files like xlsx. Suite consists of the following 5 packages all of which could be used independendly for your purposes (i'm pretty happy with it's modular design):
    - [ProjectTextParser](https://github.com/Flagro/ProjectTextParser) - file-to-text and table-to-csv parser that safely parses the files with the use of LibreOffice in order to extract text and tables in csv format from the files.
    - [ProjectTextFAISS](https://github.com/Flagro/ProjectTextFAISS) - server wrapper over a FAISS vector database with encapsulated embeddings and metadata storage in order to achieve the fast similarity search and ease of use at the same time.
    - [ProjectTextAgent](https://github.com/Flagro/ProjectTextAgent) - file observer of you project directory as a Docker agent written in Go that updates the database for current state of your files.
