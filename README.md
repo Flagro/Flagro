@@ -12,10 +12,10 @@ I'm currently working on several innovative and open-source projects, and I warm
 3. **[ExcelTableCNN](https://github.com/Flagro/ExcelTableCNN):** Open-source library for automatic table detection in Excel sheets based on Computer-Vision Deep Learning techniques.
    
 4. **[ProjectTextSuite](https://github.com/Flagro/ProjectTextSuite):** An open-source library designed for QnA LLM pipeline over a projects database folder, supporting multiple file types like word, pdf, pptx, etc with file version control and ability to do automatic question-answering pipelines over large table files like xlsx. Suite consists of the following 5 packages all of which could be used independendly for your purposes (i'm pretty happy with it's modular design):
-   - [ProjectTextParser](https://github.com/Flagro/ProjectTextParser) - file-to-text and table-to-csv parser that safely parses the files with the use of LibreOffice in order to extract text and tables in csv format from the files.
-   - [ProjectTextFAISS](https://github.com/Flagro/ProjectTextFAISS) - server wrapper over a FAISS vector database with encapsulated embeddings and metadata storage in order to achieve the fast similarity search and ease of use at the same time.
+   - [TextTableScoop](https://github.com/Flagro/TextTableScoop) - file-to-text and table-to-csv parser that safely parses the files with the use of LibreOffice in order to extract text and tables in csv format from the files.
+   - [VecMetaQ](https://github.com/Flagro/VecMetaQ) - server wrapper over a FAISS vector database with encapsulated embeddings and metadata storage in order to achieve the fast similarity search and ease of use at the same time.
    - [ProjectTextAgent](https://github.com/Flagro/ProjectTextAgent) - file observer of you project directory as a Docker agent written in Go that updates the database for current state of your files.
-   - [ProjectTextExcel](https://github.com/Flagro/ProjectTextExcel) - xlsx file parser in order to smartly obtain the data in a flat form in order to import it into a pandas dataframe.
+   - [xlsx2pandas](https://github.com/Flagro/xlsx2pandas) - xlsx file parser in order to smartly obtain the data in a flat form in order to import it into a pandas dataframe.
    - [ProjectTextQnA](https://github.com/Flagro/ProjectTextQnA) - question-answering interface over your project data in order to perform LLM qa and text-to-sql pipelines. Includes support of both self-hosted LLMs and high quality ones such as OpenAI API.
 
 5. **[SummaryForEveryone](https://github.com/Flagro/SummaryForEveryone) (Currently on pause):** An open-source library for easy and convenient summarization of text, audio, and video using local LLM models.
