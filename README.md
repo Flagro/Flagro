@@ -40,7 +40,7 @@ Since September 24th, I have embarked on a focused journey towards implementing 
 - **LLMs/NLP Tasks:** Transformers, Bert, GPT, T5, Llama, Pytorch, HuggingFace, langchain, NLTK, Spacy
 - **Parallel/Distributed Computing:** PThreads, OpenMP, MPI, CUDA, RabbitMQ
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flagro&layout=compact&theme=tokyonight&&hide=jupyter%20notebook)](https://github.com/Flagro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flagro&layout=compact&theme=tokyonight&&hide=jupyter%20notebook,HTML,TeX,Visual%20Basic%20%2ENET)](https://github.com/Flagro)
 
 ### 📘 Education
 - **Bachelor's degree in Applied Mathematics and Computer Science**, Lomonosov Moscow State University (2019 - 2023)
