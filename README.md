@@ -18,7 +18,12 @@ I'm currently working on several innovative and open-source projects, and I warm
    - [xlsx2pandas (PandasXcelerator)](https://github.com/Flagro/xlsx2pandas) - xlsx file parser in order to smartly obtain the data in a flat form in order to import it into a pandas dataframe.
    - [ProjectTextQnA](https://github.com/Flagro/ProjectTextQnA) - question-answering interface over your project data in order to perform LLM qa and text-to-sql pipelines. Includes support of both self-hosted LLMs and high quality ones such as OpenAI API.
 
-5. **[SummaryForEveryone](https://github.com/Flagro/SummaryForEveryone) (Currently on pause):** An open-source library for easy and convenient summarization of text, audio, and video using local LLM models.
+5. **[My personal blog](https://blog.flagrotown.com) (In progress, coming soon!):** My safe place to post hot takes on modern development, IT trends, entrepreneurship.
+   - [FlagroTown Blog Backend](https://github.com/Flagro/flagrotown-blog-backend) - authentication (oauth2), blog management (PostgreSQL, AWS S3) and analytics services implemented in Flask
+   - [FlagroTown Blog Frontend](https://github.com/Flagro/flagrotown-blog-frontend) - blog's static frontend written in Svelte with SvelteKit
+   - [FlagroTown Blog Repository](https://github.com/Flagro/flagrotown-blog) - new articles are handled by upload to a git repository and blog management is activated via github webhooks. Also this allows me to host my blog simultaneously in two places :)
+
+6. **[SummaryForEveryone](https://github.com/Flagro/SummaryForEveryone) (Currently on pause):** An open-source library for easy and convenient summarization of text, audio, and video using local LLM models.
 
 ### 🤝 Let's Collaborate!
 I am open to collaborations on any of the projects above. Whether you want to contribute to the code, discuss ideas, or offer suggestions, feel free to open an issue or send a pull request!
