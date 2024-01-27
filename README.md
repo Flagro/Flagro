@@ -38,10 +38,10 @@ Since September 24th 2023, I have embarked on a focused journey towards implemen
 📍 **Location:** Podgorica, Montenegro  
 
 ### 🚀 Skills & Tools
-- **Backend Development:** C++, C, Golang, Python, Django, Django Rest Framework (DRF), FastAPI, AWS, nginx, gunicorn
-- **Frontend Development (not my speciality but still have projects that utilized):** Angular 16.1
+- **Backend Development:** C++, C, Golang, Python, Django, Django Rest Framework (DRF), FastAPI, AWS
+- **Frontend Development:** Angular, Svelte, SvelteKit
 - **Data Engineering:** Pandas, PostgreSQL, MongoDB, Motor, Openpyxl, win32com, SQLite, SQLAlchemy
-- **CI/CD:** Git, GitHub Actions, Docker
+- **CI/CD:** Git, GitHub Actions, Docker, Kubernetes
 - **LLMs/NLP Tasks:** Transformers, Bert, GPT, T5, Llama, Pytorch, HuggingFace, langchain, NLTK, Spacy
 - **Parallel/Distributed Computing:** PThreads, OpenMP, MPI, CUDA, RabbitMQ
 
