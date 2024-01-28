@@ -25,7 +25,7 @@ I'm currently working on several innovative and open-source projects, and I warm
 
 6. **[SummaryForEveryone](https://github.com/Flagro/SummaryForEveryone) (Currently on pause):** An open-source library for easy and convenient summarization of text, audio, and video using local LLM models.
 
-Also please check [out my github gists](https://gist.github.com/Flagro)! 
+Also please check out [my github gists](https://gist.github.com/Flagro)! 
 
 ### 🤝 Let's Collaborate!
 I am open to collaborations on any of the projects above. Whether you want to contribute to the code, discuss ideas, or offer suggestions, feel free to open an issue or send a pull request!
