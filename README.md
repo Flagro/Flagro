@@ -16,8 +16,8 @@ I'm currently working on several innovative and open-source projects, and I warm
    - [VecMetaQ](https://github.com/Flagro/VecMetaQ) - server wrapper over a FAISS vector database with encapsulated embeddings and metadata storage in order to achieve the fast similarity search and ease of use at the same time.
    - [ProjectTextAgent](https://github.com/Flagro/ProjectTextAgent) - file observer of you project directory as a Docker agent written in Go that updates the database for current state of your files.
    - [xlsx2pandas (PandasXcelerator)](https://github.com/Flagro/xlsx2pandas) - xlsx file parser in order to smartly obtain the data in a flat form in order to import it into a pandas dataframe.
-   - [RelaLLM (Coming soon!)](https://github.com/Flagro/RelaLLM) - Multi-Header Dataframe Processing with LLM-Powered Relational Database Mining.
-   - [ProjectTextQnA (Coming soon!)](https://github.com/Flagro/ProjectTextQnA) - question-answering interface over your project data in order to perform LLM qa and text-to-sql pipelines. Includes support of both self-hosted LLMs and high quality ones such as OpenAI API.
+   - [RelaLLM](https://github.com/Flagro/RelaLLM) (Coming soon!) - Multi-Header Dataframe Processing with LLM-Powered Relational Database Mining.
+   - [ProjectTextQnA](https://github.com/Flagro/ProjectTextQnA) (Coming soon!) - question-answering interface over your project data in order to perform LLM qa and text-to-sql pipelines. Includes support of both self-hosted LLMs and high quality ones such as OpenAI API.
 
 5. **[My personal blog](https://blog.flagrotown.com) (In progress, coming soon!):** My safe place to post hot takes on modern development, IT trends, entrepreneurship.
    - [FlagroTown Blog Backend](https://github.com/Flagro/flagrotown-blog-backend) - authentication (oauth2), blog management (PostgreSQL, AWS S3) and analytics services implemented in Flask
