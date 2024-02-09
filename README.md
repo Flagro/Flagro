@@ -26,6 +26,8 @@ I'm currently working on several innovative and open-source projects, and I warm
 
 6. **[SummaryForEveryone](https://github.com/Flagro/SummaryForEveryone) (Currently on pause):** An open-source library for easy and convenient summarization of text, audio, and video using local LLM models.
 
+7. **[treefeeder](https://github.com/Flagro/treefeeder):** My take on easy communications with your LLM/AI assistant over your codebase.
+
 Also please check out [my github gists](https://gist.github.com/Flagro)! 
 
 ### 🤝 Let's Collaborate!
