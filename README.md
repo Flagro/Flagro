@@ -36,7 +36,7 @@ I am open to collaborations on any of the projects above. Whether you want to co
 ## 🌟 About Me
 I'm a Data Analyst, LLM Engineer, and Developer specializing in Python and C++. With 3 years of hands-on experience in ML and backend development, I've been contributing to projects supported by brands like Huawei and refined my skills in backend development, focusing on innovative tech solutions. Currently, I'm enhancing the realms of Large Language Models and Natural Language Processing.
 
-Since September 24th 2023, I have embarked on a focused journey towards implementing my vision for open source. Each single day since then is marked with a commitment to contribute, and as of now, I'm proud to maintain a streak of almost a year of every day contributions. This consistent effort reflects my dedication to implement my ideas and goals in the open-source community. Every commit, issue, and pull request is a step towards making a meaningful impact and bringing my vision to life.
+Since September 24th 2023, I have embarked on a focused journey towards implementing my vision for open source. Each single day since then is marked with a commitment to contribute, and as of now, I'm proud to maintain a streak of more than a year of every day contributions. This consistent effort reflects my dedication to implement my ideas and goals in the open-source community. Every commit, issue, and pull request is a step towards making a meaningful impact and bringing my vision to life.
 
 [![Flagro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flagro&theme=tokyonight)](https://github.com/Flagro)
 
