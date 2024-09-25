@@ -1,5 +1,10 @@
 # Hello, I'm Anton Potapov! 👋
 
+## 💼 Personal GitHub Account
+Welcome! This account is dedicated to my personal projects, separate from my work-related activities. This helps me keep an accurate track of my personal project progress and maintain a separate daily contribution streak, distinct from my work contributions.
+
+For work-related projects, visit my work GitHub account: [**aapotapov**](https://github.com/aapotapov)
+
 ## 🚀 Current Projects
 I'm currently working on several innovative and open-source projects, and I warmly welcome collaborations! Feel free to reach out if you're interested in contributing to any of the projects below:
   
